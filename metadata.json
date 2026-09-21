@@ -1,0 +1,6 @@
+{
+  "name": "Fake News & Credibility Detector",
+  "description": "AI-powered fact-checking and credibility detector with Google Search grounding, title vs content consistency analysis, and confidence scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
